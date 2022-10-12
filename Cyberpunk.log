@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.9.29)  5 OCT 2022 20:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.9.29)  12 OCT 2022 10:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -331,15 +331,18 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 {C:/Users/sahurai/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 No file Cyberpunk.bbl.
-[2] (Cyberpunk.aux)
+[2] [3] (Cyberpunk.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `Cyberpunk.out' has not changed.
 (rerunfilecheck)             Checksum: 7EE3FE1B3D5AA29BECE98D498C63ABA3;1113.
  ) 
 Here is how much of TeX's memory you used:
  9812 strings out of 478338
- 158067 string characters out of 2835756
- 474332 words of memory out of 3000000
- 28100 multiletter control sequences out of 15000+600000
+ 158057 string characters out of 2835756
+ 475332 words of memory out of 3000000
+ 28099 multiletter control sequences out of 15000+600000
  481132 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,7n,77p,1621b,487s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -359,9 +362,9 @@ i600\csr9.pk> <C:\Users\sahurai\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csf
 onts/dpi600\csr12.pk> <C:\Users\sahurai\AppData\Local\MiKTeX\fonts/pk/ljfour/jk
 nappen/ec/dpi600\tcrm1200.pk> <C:\Users\sahurai\AppData\Local\MiKTeX\fonts/pk/l
 jfour/public/csfonts/dpi600\csr17.pk>
-Output written on Cyberpunk.pdf (2 pages, 107078 bytes).
+Output written on Cyberpunk.pdf (3 pages, 118257 bytes).
 PDF statistics:
- 383 PDF objects out of 1000 (max. 8388607)
- 17 named destinations out of 1000 (max. 500000)
+ 416 PDF objects out of 1000 (max. 8388607)
+ 18 named destinations out of 1000 (max. 500000)
  73 words of extra memory for PDF output out of 10000 (max. 10000000)
 
